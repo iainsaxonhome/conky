@@ -108,5 +108,3 @@ ${color lightgrey} ${top name 6} ${top pid 6} ${top cpu 6} ${top mem 6}
 ${color lightgrey} ${top name 7} ${top pid 7} ${top cpu 7} ${top mem 7}
 ${color lightgrey} ${top name 8} ${top pid 8} ${top cpu 8} ${top mem 8}
 ]]
-                                                                                                    112,1         Bot
-
